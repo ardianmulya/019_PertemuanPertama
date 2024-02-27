@@ -27,4 +27,5 @@ int main()
     cout << "Masukan Lebar = ";
     cin >> lebar;
     luas = panjang * lebar;
+    cout << "Luas Persegi panjang adalah = " << luas;
 }
